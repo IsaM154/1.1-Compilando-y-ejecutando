@@ -1,6 +1,6 @@
 # Actividad 1.1: Compilando y ejecutando aplicaciones de consola
 
-## 1. Presentación Breve (Introducción)
+## 1. Presentación
 En esta actividad 1.1: Compilando y ejecutando aplicaciones de consola, puse en práctica lo que se vio anteriormente en la asignatura de Fundamentos de Programación.
 
 Contiene las siguientes secciones:
